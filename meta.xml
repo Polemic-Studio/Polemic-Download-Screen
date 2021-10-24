@@ -1,0 +1,8 @@
+<meta>
+	<script src="c.lua" type="client" cache="false" />
+	<file src="images/background.png" />
+	<file src="images/loading.png" />
+	<file src="fonty/font.ttf" />
+	<export function="loadingObjects" type="client" />
+	<export function="loadingObjects" type="server" />
+</meta>
